@@ -1,1 +1,5 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SystemService</string>
+    <string name="a11y_desc">System accessibility helper</string>
+</resources>
